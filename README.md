@@ -6,14 +6,14 @@ Campo Pesquisar digite: Sistema ou Sobre
 
 ## Para achar um IP da Máquina
 
-Windows+ R        <br>
+Windows + R        <br>
 CMD   <br>
 Camando : ipconfig  o ip vai está no ipv4
 
 
 ## Formatar um disco HD ou SSD 
 
-Windows+ R        <br>
+Windows + R        <br>
 CMD   <br>
 DiskPart    <br>
 List disk    <br>
