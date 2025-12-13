@@ -1,5 +1,15 @@
 # Comandos-Suporte-Desk-Windows
 
+## Verificar o nome da Máquina 
+
+Campo Pesquisar digite: Sistema ou Sobre
+
+## Para achar um IP da Máquina
+
+Windows+ R        <br>
+CMD   <br>
+Camando : ipconfig  o ip vai está no ipv4
+
 
 ## Formatar um disco HD ou SSD 
 
