@@ -8,7 +8,7 @@ Campo Pesquisar digite: Sistema ou Sobre
 
 Windows + R        <br>
 CMD   <br>
-Camando : ipconfig  o ip vai está no ipv4
+Camando : ipconfig  o ip vai está no ipv4   <br>
 Caso não volte vai até gerenciamento de disco e adicione um novo volume. 
 
 
