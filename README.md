@@ -1,4 +1,4 @@
-# Comandos-Suporte-Desk-Windows
+# Comandos-Suporte-Desk
 
 ## Verificar o nome da Máquina 
 
