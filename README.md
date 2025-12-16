@@ -20,3 +20,8 @@ DiskPart    <br>
 List disk    <br>
 Selecionar  o Disco 0 ou 1 ou +     <br>
 Clean
+
+### Limpar a Memória do Pc
+
+Cmd executar como administrador e
+digite:  cleanmgr
