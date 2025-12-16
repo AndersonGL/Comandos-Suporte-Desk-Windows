@@ -23,5 +23,5 @@ Clean
 
 ### Limpar a Memória do Pc
 
-Cmd executar como administrador e
+Cmd executar como administrador e <br>
 digite:  cleanmgr
