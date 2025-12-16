@@ -1,3 +1,6 @@
+<!--https://activedirectorypro.com/windows-cmd-commands/-->
+
+
 # Comandos-Suporte-Help-Desk
 
 ## Verificar o nome da Máquina 
