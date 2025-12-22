@@ -28,3 +28,13 @@ Clean
 
 Cmd executar como administrador e <br>
 digite:  cleanmgr
+
+
+## Limpar a memória cache do PC
+
+Windows + R        <br>
+%temp%   <br>
+
+Windows + R        <br>
+MRT para fazer uma varredura de virus
+
