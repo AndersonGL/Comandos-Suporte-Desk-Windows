@@ -12,6 +12,7 @@ Campo Pesquisar digite: Sistema ou Sobre
 Windows + R        <br>
 CMD   <br>
 Camando : ipconfig  o ip vai está no ipv4   <br>
+Hostname -> Verificar o nome da máquina
 Caso não volte vai até gerenciamento de disco e adicione um novo volume. 
 
 
