@@ -13,7 +13,7 @@ Windows + R        <br>
 CMD   <br>
 Camando : ipconfig  o ip vai está no ipv4   <br>
 Hostname -> Verificar o nome da máquina
-Caso não volte vai até gerenciamento de disco e adicione um novo volume. 
+- Caso não volte vai até gerenciamento de disco e adicione um novo volume. 
 
 
 ## Formatar um disco HD ou SSD 
