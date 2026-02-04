@@ -25,7 +25,7 @@ List disk    <br>
 Selecionar  o Disco 0 ou 1 ou +     <br>
 Clean
 
-### Limpar a Memória do Pc
+## Limpar a Memória do Pc
 
 Cmd executar como administrador e <br>
 digite:  cleanmgr
